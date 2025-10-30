@@ -15,5 +15,5 @@ app.get("/",(req,res)=>{
 })
 
 app.listen(PORT, ()=>{
-    console.log(`server running at locahost/${PORT}/`)
+    console.log(`server running at localhost/${PORT}/`)
 })
